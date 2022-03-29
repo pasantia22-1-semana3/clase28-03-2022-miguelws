@@ -1,0 +1,8 @@
+###
+GET http://localhost:5000/api/statistic/type/amenaza
+
+###
+GET http://localhost:5000/api/statistic/year/2017
+
+###
+GET http://localhost:5000/api/statistic/gender/mujer
